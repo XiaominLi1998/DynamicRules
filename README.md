@@ -17,3 +17,7 @@ To train your own rule adapter with existing preference dataset:
 
 2. Train rule adapter:
    run trainRuleAdpter.py
+
+
+Our reward model RAMO: https://huggingface.co/HFXM/RAMO-Llama3.1-8B
+Our RuleAdapter: https://huggingface.co/HFXM/RAMO-RuleAdapter
