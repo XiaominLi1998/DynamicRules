@@ -20,4 +20,5 @@ To train your own rule adapter with existing preference dataset:
 
 
 Our reward model RAMO: https://huggingface.co/HFXM/RAMO-Llama3.1-8B
+
 Our RuleAdapter: https://huggingface.co/HFXM/RAMO-RuleAdapter
